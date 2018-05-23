@@ -1,0 +1,1 @@
+[] spawn compile preprocessfilelinenumbers ("TER_guigridfix\fnc\GUI_initNew.sqf");
